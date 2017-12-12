@@ -21,13 +21,15 @@
                   border-top: 1px solid #000000;
                   border-bottom: 1px solid #000000;
 
-              }
+  <body>            }
 
  div {
     width: 300px;
     margin: auto;
     border: 1px solid red;
 }
+</body>
+
 
      
    </style>
