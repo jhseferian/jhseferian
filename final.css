@@ -1,10 +1,58 @@
-<style>
-.h1 {
-          font-family: 'Arvo', serif;
-          text-align: center;
-          margin-right: 25px; 
-          margin-left: 50px;
-          font-size: 60px 
+<!--START OF CSS-->
+    <style>
+
+      .h1 {
+                   font-family: 'Roboto Slab', serif;
+                   text-align: center;
+                   margin-right: 25px;
+                   margin-left: 50px;
+                   font-size:60px
+          }
+
+
+      .byline {
+                  font-family: 'Roboto Slab', serif;
+                  font-weight: bold;
+                  border-top: 1px solid #000000;
+                  border-bottom: 1px solid #000000;
+
+              }
+
+      .p {
+                font-family: 'Roboto Slab', serif;
+                font-size: 20px;
+
+
+         }
+
+     .caption {
+               font-size: 12px;
+               font-style: italic;
+               text-align: center;
+
+              }
+
+     .h2
+
+          {
+            font-family: 'Roboto Slab', serif;
+                font-size: 18px;
+
+
+
+
+          }
+
+      #maincontent {
+        max-width: 650px;
+        margin-left:auto;
+        margin-right:auto;
+
+          }
+
+
+   </style>
+
 }
 
 
